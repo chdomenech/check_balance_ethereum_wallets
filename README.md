@@ -1,2 +1,3 @@
 # check_balance
-check for token erc20 and eth balance for ethereum wallets 
+
+Check the balance of tokens erc20 and eth of ethereum wallets
