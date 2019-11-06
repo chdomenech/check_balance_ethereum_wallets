@@ -8,4 +8,5 @@ Intructions:
 2) Run the scripts: 
 
 a) node checkBalanceETH.js (for check eth balance for 5000 ethereum wallets)
-6) node checkBalanceERC20.js (for check for tokens erc20 balance in this example for check OMG balance)
+
+b) node checkBalanceERC20.js (for check for tokens erc20 balance in this example for check OMG balance)
